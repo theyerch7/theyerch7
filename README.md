@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Yericho**.<br>
+
+Saya seorang **............** di [Dicoding](https://www.dicoding.com/).<br>
+
+Saya bertanggung jawab pada ..................<br>
+
+Saya juga memiliki gelar ...................... sejak ....<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun .....................ku ya.
