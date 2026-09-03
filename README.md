@@ -19,13 +19,9 @@ Here are some ideas to get you started:
 
 Perkenalkan nama saya **Yericho**.<br>
 
-Saya seorang **............** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang (unknown).<br>
 
-Saya bertanggung jawab pada ..................<br>
-
-Saya juga memiliki gelar ...................... sejak ....<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun .....................ku ya.
+Sekarang saya menempuh perkuliahan pada (unknown)<br>
 
 <p align="left">
 <a href="https://github.com/theyerch7">
