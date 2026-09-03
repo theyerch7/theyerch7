@@ -22,10 +22,3 @@ Perkenalkan nama saya **Yericho**.<br>
 Saya seorang (unknown).<br>
 
 Sekarang saya menempuh perkuliahan pada (unknown)<br>
-
-<p align="left">
-<a href="https://github.com/theyerch7">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=theyerch7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=theyerch7&layout=compact&theme=algolia"/>
-</a>
-</p>
